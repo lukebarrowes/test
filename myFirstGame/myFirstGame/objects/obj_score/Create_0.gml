@@ -1,0 +1,1 @@
+gameScore = 0;
